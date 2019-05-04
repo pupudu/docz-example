@@ -1,0 +1,14 @@
+{
+  "name": "my-docz-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build",
+    "now-build": "docz build",
+    "now-dev": "docz dev --port $PORT"
+  },
+  "devDependencies": {
+    "docz": "^0.13.7",
+    "docz-theme-default": "^0.13.7"
+  }
+}
